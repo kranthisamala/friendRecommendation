@@ -1,0 +1,44 @@
+#logout
+{
+	background-color: black;
+	float: right;
+	margin-right:100px;
+	padding:5 20px; 
+	color: white;
+	text-decoration: none;
+}
+.rec_level
+{
+	color:white;
+	margin-top:61px;
+	padding:2px;
+	padding-left:5px;
+	background-color:black;
+}
+.rec_block
+{
+	cursor: pointer;
+	margin:25px;
+	margin-left:75px;
+	height:auto;
+	padding:2px;
+	float:left;
+	border:1px solid black;
+}
+.rec_info
+{
+	background-color:black;
+	padding:5px;
+	height:50px;
+	width:50px;
+	float:left;
+}
+.rec_name
+{
+	height:50px;
+	float:left;
+	color:white;
+	margin-left:2px;
+	background-color:black;
+	padding:5px;
+}

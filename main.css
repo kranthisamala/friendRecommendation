@@ -1,0 +1,22 @@
+       
+             #back{
+                 width: 100%;
+                 height:100%;
+                 background:#c00c15 url("back_pattern.png") repeat top right;
+                 background-size: 20% 40%;
+                 position:absolute;
+                 display:block;
+                 opacity:0.5;
+             }
+             #backimage_holder
+             {
+                 width:100%;
+                 height:100%;
+		 left:0%;
+		 top:0%;
+                 background:#000 url("lang.PNG") no-repeat top right;
+		 background-size:100% 100%;
+		 opacity:0.5;
+                 position:absolute;
+                 display:block;
+             }
